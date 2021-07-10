@@ -48,7 +48,6 @@ npm init -y
 npm install bootstrap@3
 ```
 
-
 ## Main Files: Project Structure
 
   ```sh
