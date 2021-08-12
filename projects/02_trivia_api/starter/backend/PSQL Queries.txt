@@ -1,0 +1,2 @@
+# To get the column names of table
+select column_name from INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME='questions';
